@@ -40,19 +40,27 @@ namespace JobToDDD.Controllers
             .ToArray();
         }
 
-
+        /// <summary>
+        /// 新增
+        /// </summary>
         [HttpPost]
         public void Post()
         {
 
         }
 
+        /// <summary>
+        /// 修改
+        /// </summary>
         [HttpPut]
         public void Put()
         {
 
         }
 
+        /// <summary>
+        /// 删除
+        /// </summary>
         [HttpDelete]
         public void Delete()
         {

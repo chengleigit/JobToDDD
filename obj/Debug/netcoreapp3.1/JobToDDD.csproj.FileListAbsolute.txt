@@ -24,3 +24,5 @@ F:\@9学习\10_我的项目\JobToDDD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetC
 F:\@9学习\10_我的项目\JobToDDD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 F:\@9学习\10_我的项目\JobToDDD\obj\Debug\netcoreapp3.1\JobToDDD.MvcApplicationPartsAssemblyInfo.cs
 F:\@9学习\10_我的项目\JobToDDD\obj\Debug\netcoreapp3.1\JobToDDD.csproj.CopyComplete
+F:\@9学习\10_我的项目\JobToDDD\bin\Debug\netcoreapp3.1\JobToDDD.xml
+F:\@9学习\10_我的项目\JobToDDD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
