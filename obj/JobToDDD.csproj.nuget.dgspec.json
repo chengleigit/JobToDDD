@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD\\JobToDDD.csproj": {}
+    "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.csproj": {}
   },
   "projects": {
-    "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD\\JobToDDD.csproj": {
+    "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD\\JobToDDD.csproj",
+        "projectUniqueName": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.csproj",
         "projectName": "JobToDDD",
-        "projectPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD\\JobToDDD.csproj",
+        "projectPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD\\obj\\",
+        "outputPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

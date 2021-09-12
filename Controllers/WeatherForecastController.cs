@@ -23,6 +23,10 @@ namespace JobToDDD.Controllers
             _logger = logger;
         }
 
+        /// <summary>
+        /// 测试获取
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
@@ -34,6 +38,25 @@ namespace JobToDDD.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+
+        [HttpPost]
+        public void Post()
+        {
+
+        }
+
+        [HttpPut]
+        public void Put()
+        {
+
+        }
+
+        [HttpDelete]
+        public void Delete()
+        {
+
         }
     }
 }

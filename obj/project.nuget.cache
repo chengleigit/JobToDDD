@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Tgof0663oKFhfwMRZahzWo1lfUh2ZLXJ5zXS5RwqGWyWPP/NSQxnGdB/qdCTObVMsrVFrrVP9qYHgeTm62veJg==",
+  "dgSpecHash": "ClurzCiwuN/gWKgiFcnBYaUJxiOiyUWfhJtawlrz5OO6F+0yLufgAxtZx7H2/7DQZ4cu/cm1ojFOuEzW2g4I/Q==",
   "success": true,
-  "projectFilePath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD\\JobToDDD.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.1\\swashbuckle.aspnetcore.6.2.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
