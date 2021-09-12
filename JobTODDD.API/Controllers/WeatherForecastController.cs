@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using JobToDDD.Application.JobApp;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -17,28 +18,41 @@ namespace JobToDDD.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
-
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        private readonly IJobService _JobService;
+        public WeatherForecastController(ILogger<WeatherForecastController> logger, IJobService JobService)
         {
             _logger = logger;
+            _JobService = JobService;
+        }
+
+        /// <summary>
+        /// 测试接口
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public void TestAPI()
+        {
+
+            _JobService.GetJobs();
+
         }
 
         /// <summary>
         /// 测试获取
         /// </summary>
         /// <returns></returns>
-        [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
-        {
-            var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            })
-            .ToArray();
-        }
+        //[HttpGet]
+        //public IEnumerable<WeatherForecast> Get()
+        //{
+        //    var rng = new Random();
+        //    return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+        //    {
+        //        Date = DateTime.Now.AddDays(index),
+        //        TemperatureC = rng.Next(-20, 55),
+        //        Summary = Summaries[rng.Next(Summaries.Length)]
+        //    })
+        //    .ToArray();
+        //}
 
         /// <summary>
         /// 新增

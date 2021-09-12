@@ -4,9 +4,9 @@
         <name>JobToDDD</name>
     </assembly>
     <members>
-        <member name="M:JobToDDD.Controllers.WeatherForecastController.Get">
+        <member name="M:JobToDDD.Controllers.WeatherForecastController.TestAPI">
             <summary>
-            测试获取
+            测试接口
             </summary>
             <returns></returns>
         </member>

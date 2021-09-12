@@ -21,6 +21,6 @@ namespace JobToDDD
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                }).UseAutofac();
     }
 }

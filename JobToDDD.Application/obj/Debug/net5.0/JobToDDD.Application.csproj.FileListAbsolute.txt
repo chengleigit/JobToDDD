@@ -1,0 +1,17 @@
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\JobToDDD.Application.deps.json
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\JobToDDD.Application.dll
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\ref\JobToDDD.Application.dll
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\JobToDDD.Application.pdb
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\JobToDD.EntityFramework.dll
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\JobToDDD.Domain.dll
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\JobToDD.EntityFramework.pdb
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\bin\Debug\net5.0\JobToDDD.Domain.pdb
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.csprojAssemblyReference.cache
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.AssemblyInfoInputs.cache
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.AssemblyInfo.cs
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.csproj.CoreCompileInputs.cache
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.csproj.CopyComplete
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.dll
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\ref\JobToDDD.Application.dll
+F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Application\obj\Debug\net5.0\JobToDDD.Application.pdb
