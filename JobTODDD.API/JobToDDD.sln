@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobToDDD", "JobToDDD.csproj", "{44C6DEED-3393-4F3F-8A88-4F239799EE4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobToDDD.Domain", "..\JobToDDD.Domain\JobToDDD.Domain.csproj", "{7F1B18A3-C7B1-4F5C-8DFC-2A128C21598E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobToDDD.Domain", "..\JobToDDD.Domain\JobToDDD.Domain.csproj", "{7F1B18A3-C7B1-4F5C-8DFC-2A128C21598E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobToDD.EntityFramework", "..\JobToDD.EntityFramework\JobToDD.EntityFramework.csproj", "{E3377F37-AB05-49F5-9CB9-AED5FBFC6934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobToDD.EntityFramework", "..\JobToDD.EntityFramework\JobToDD.EntityFramework.csproj", "{E3377F37-AB05-49F5-9CB9-AED5FBFC6934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobToDDD.Application", "..\JobToDDD.Application\JobToDDD.Application.csproj", "{14BC8EC9-0C8B-40C6-B1F0-820D0A3F1E0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobToDDD.Application", "..\JobToDDD.Application\JobToDDD.Application.csproj", "{14BC8EC9-0C8B-40C6-B1F0-820D0A3F1E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

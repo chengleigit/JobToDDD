@@ -2,7 +2,6 @@ F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\bin\Debug\net5.0\JobToDDD.D
 F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\bin\Debug\net5.0\JobToDDD.Domain.dll
 F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\bin\Debug\net5.0\ref\JobToDDD.Domain.dll
 F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\bin\Debug\net5.0\JobToDDD.Domain.pdb
-F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\obj\Debug\net5.0\JobToDDD.Domain.csprojAssemblyReference.cache
 F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\obj\Debug\net5.0\JobToDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
 F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\obj\Debug\net5.0\JobToDDD.Domain.AssemblyInfoInputs.cache
 F:\@9学习\10_我的项目\JobToDDD\JobToDDD.Domain\obj\Debug\net5.0\JobToDDD.Domain.AssemblyInfo.cs

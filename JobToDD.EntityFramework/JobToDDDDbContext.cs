@@ -13,9 +13,11 @@ namespace JobToDD.EntityFramework
     [ConnectionStringName("Default")]
     public class JobToDDDDbContext : AbpDbContext<JobToDDDDbContext>
     {
-        public JobToDDDDbContext(DbContextOptions<JobToDDDDbContext> options):base(options)
+        public JobToDDDDbContext(DbContextOptions<JobToDDDDbContext> options) : base(options)
         {
         }
+
+
 
         public DbSet<Job> Jobs { get; set; }
     }

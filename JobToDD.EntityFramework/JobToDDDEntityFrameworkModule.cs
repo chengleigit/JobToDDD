@@ -14,7 +14,8 @@ namespace JobToDD.EntityFramework
     {
         public override void ConfigureServices(ServiceConfigurationContext context)
         {
-            context.Services.AddAbpDbContext<JobToDDDDbContext>(opt=> {
+            context.Services.AddAbpDbContext<JobToDDDDbContext>(opt =>
+            {
                 opt.AddDefaultRepositories(true);
             });
 
@@ -22,6 +23,7 @@ namespace JobToDD.EntityFramework
             {
                 opt.UseSqlServer();
             });
+
         }
     } 
 }

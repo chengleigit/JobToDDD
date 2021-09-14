@@ -13,3 +13,6 @@ F:\@9学习\10_我的项目\JobToDDD\JobToDD.EntityFramework\obj\Debug\net5.0\Jo
 F:\@9学习\10_我的项目\JobToDDD\JobToDD.EntityFramework\obj\Debug\net5.0\JobToDD.EntityFramework.dll
 F:\@9学习\10_我的项目\JobToDDD\JobToDD.EntityFramework\obj\Debug\net5.0\ref\JobToDD.EntityFramework.dll
 F:\@9学习\10_我的项目\JobToDDD\JobToDD.EntityFramework\obj\Debug\net5.0\JobToDD.EntityFramework.pdb
+F:\@9学习\10_我的项目\JobToDDD\JobToDD.EntityFramework\bin\Debug\net5.0\JobToDD.EntityFramework.runtimeconfig.json
+F:\@9学习\10_我的项目\JobToDDD\JobToDD.EntityFramework\bin\Debug\net5.0\JobToDD.EntityFramework.runtimeconfig.dev.json
+F:\@9学习\10_我的项目\JobToDDD\JobToDD.EntityFramework\obj\Debug\net5.0\JobToDD.EntityFramework.genruntimeconfig.cache
