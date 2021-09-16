@@ -848,3 +848,6 @@ F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\JobToDDD.Doma
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\JobToDDD.Application.pdb
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\JobToDD.EntityFramework.pdb
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\JobToDDD.Domain.pdb
+F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\Humanizer.dll
+F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\JobToDDD.xml

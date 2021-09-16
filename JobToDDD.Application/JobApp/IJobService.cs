@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JobToDDD.Domain.JobInfio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +10,6 @@ namespace JobToDDD.Application.JobApp
 {
     public interface IJobService:IApplicationService
     {
-        void GetJobs();
+        public Task<List<Job>> GetAllJobs();
     }
 }
