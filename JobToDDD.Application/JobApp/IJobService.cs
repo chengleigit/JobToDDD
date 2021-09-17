@@ -10,6 +10,9 @@ namespace JobToDDD.Application.JobApp
 {
     public interface IJobService:IApplicationService
     {
-        public Task<List<Job>> GetAllJobs();
+        Task<List<Job>> GetAllJobsAsync();
+        Task<Job> InsertJobAsync(Job input);
+        Task<string> DeleteJobAsync(Guid id);
+        Task<Job> UpdateJobAsync(Guid id,Job input);
     }
 }

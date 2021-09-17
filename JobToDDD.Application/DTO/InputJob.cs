@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using Volo.Abp.Domain.Entities;
 
-namespace JobToDDD.Domain.JobInfio
+namespace JobToDDD.Application.DTO
 {
-    public class Job : Entity<Guid>
+    public class InputJob
     {
         public string JobName { get; set; }
         public string JobPay { get; set; }
@@ -16,7 +14,5 @@ namespace JobToDDD.Domain.JobInfio
         public string WorkExperience { get; set; }
         public DateTime? PublishTime { get; set; }
         public int? CityId { get; set; }
-        public int? CompanyId { get; set; }
-
     }
 }

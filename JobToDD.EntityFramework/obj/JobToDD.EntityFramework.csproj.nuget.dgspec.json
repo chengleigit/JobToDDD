@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj": {}
+    "D:\\.NET\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj": {}
   },
   "projects": {
-    "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj": {
+    "D:\\.NET\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj",
+        "projectUniqueName": "D:\\.NET\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj",
         "projectName": "JobToDD.EntityFramework",
-        "projectPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDD.EntityFramework\\obj\\",
+        "projectPath": "D:\\.NET\\JobToDDD\\JobToDD.EntityFramework\\JobToDD.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\JobToDDD\\JobToDD.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj": {
-                "projectPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj"
+              "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj": {
+                "projectPath": "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj"
               }
             }
           }
@@ -81,24 +78,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj": {
+    "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
+        "projectUniqueName": "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
         "projectName": "JobToDDD.Domain",
-        "projectPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\obj\\",
+        "projectPath": "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -148,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
