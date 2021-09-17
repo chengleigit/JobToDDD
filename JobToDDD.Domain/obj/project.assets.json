@@ -3616,23 +3616,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
+      "projectUniqueName": "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
       "projectName": "JobToDDD.Domain",
-      "projectPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\@9学习\\10_我的项目\\JobToDDD\\JobToDDD.Domain\\obj\\",
+      "projectPath": "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\JobToDDD.Domain.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\.NET\\JobToDDD\\JobToDDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3682,7 +3678,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

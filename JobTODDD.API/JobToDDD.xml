@@ -4,6 +4,35 @@
         <name>JobToDDD</name>
     </assembly>
     <members>
+        <member name="T:JobToDDD.Controllers.JobController">
+            <summary>
+            工作控制器
+            </summary>
+        </member>
+        <member name="M:JobToDDD.Controllers.JobController.GetJobAsync">
+            <summary>
+            获取所有信息
+            </summary>
+        </member>
+        <member name="M:JobToDDD.Controllers.JobController.PostJobAsync(JobToDDD.Domain.JobInfio.Job)">
+            <summary>
+            新增
+            </summary>
+        </member>
+        <member name="M:JobToDDD.Controllers.JobController.UpdateJob(System.Guid,JobToDDD.Domain.JobInfio.Job)">
+            <summary>
+            修改
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JobToDDD.Controllers.JobController.DeleteJob(System.Guid)">
+            <summary>
+            删除
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
         <member name="M:JobToDDD.Controllers.WeatherForecastController.TestAPI">
             <summary>
             测试接口
