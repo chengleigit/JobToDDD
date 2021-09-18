@@ -31,10 +31,14 @@ namespace JobToDDD.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        public async Task<List<Job>> TestAPIAsync()
+        public async Task<List<Job>> TestAPI()
         {
-           return  await _JobService.GetAllJobs();
+
+            return await  _JobService.GetAllJobsAsync();
+
         }
+
+
 
         /// <summary>
         /// 测试获取
