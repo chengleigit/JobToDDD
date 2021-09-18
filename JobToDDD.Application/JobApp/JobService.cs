@@ -16,9 +16,9 @@ namespace JobToDDD.Application.JobApp
         {
             _jobRepo =  jobRepo;
         }
-        public void GetJobs()
+        public async Task<List<Job>> GetAllJobs()
         {
-            var jobs = _jobRepo.GetListAsync().Result;
+           return await _jobRepo.GetListAsync();
         }
     }
 }

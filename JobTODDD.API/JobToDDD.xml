@@ -4,7 +4,7 @@
         <name>JobToDDD</name>
     </assembly>
     <members>
-        <member name="M:JobToDDD.Controllers.WeatherForecastController.TestAPI">
+        <member name="M:JobToDDD.Controllers.WeatherForecastController.TestAPIAsync">
             <summary>
             测试接口
             </summary>

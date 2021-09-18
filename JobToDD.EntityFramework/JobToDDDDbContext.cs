@@ -1,4 +1,5 @@
-﻿using JobToDDD.Domain.JobInfio;
+﻿using JobToDD.EntityFramework.Seed;
+using JobToDDD.Domain.JobInfio;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -41,5 +42,6 @@ namespace JobToDD.EntityFramework
             });
 
         }
+        
     }
 }

@@ -799,7 +799,6 @@ F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\JobToDDD.Gene
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\JobToDDD.AssemblyInfoInputs.cache
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\JobToDDD.AssemblyInfo.cs
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\JobToDDD.csproj.CoreCompileInputs.cache
-F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\JobToDDD.MvcApplicationPartsAssemblyInfo.cs
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\JobToDDD.MvcApplicationPartsAssemblyInfo.cache
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\staticwebassets\JobToDDD.StaticWebAssets.Manifest.cache
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\staticwebassets\JobToDDD.StaticWebAssets.xml
@@ -851,3 +850,4 @@ F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\JobToDDD.Doma
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\Humanizer.dll
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\bin\Debug\net5.0\JobToDDD.xml
+F:\@9学习\10_我的项目\JobToDDD\JobTODDD.API\obj\Debug\net5.0\JobToDDD.MvcApplicationPartsAssemblyInfo.cs

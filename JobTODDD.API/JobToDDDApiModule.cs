@@ -43,6 +43,7 @@ namespace JobToDDD
 
         public override void OnApplicationInitialization(ApplicationInitializationContext context)
         {
+            
             var env = context.GetEnvironment();
             var app = context.GetApplicationBuilder();
             if (env.IsDevelopment())

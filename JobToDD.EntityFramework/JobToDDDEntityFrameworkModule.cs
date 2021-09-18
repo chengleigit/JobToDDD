@@ -23,7 +23,7 @@ namespace JobToDD.EntityFramework
             {
                 opt.UseSqlServer();
             });
-
+            
         }
     } 
 }

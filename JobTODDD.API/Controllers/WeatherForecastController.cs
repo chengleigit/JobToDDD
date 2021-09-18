@@ -1,4 +1,5 @@
 ﻿using JobToDDD.Application.JobApp;
+using JobToDDD.Domain.JobInfio;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -30,11 +31,9 @@ namespace JobToDDD.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        public void TestAPI()
+        public async Task<List<Job>> TestAPIAsync()
         {
-
-            _JobService.GetJobs();
-
+           return  await _JobService.GetAllJobs();
         }
 
         /// <summary>
